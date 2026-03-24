@@ -1,0 +1,24 @@
+# Assignment PDF (not for public sharing)
+*.pdf
+
+# Dataset files
+*.p
+*.zip
+german-traffic-sign-dataset/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Keras Tuner output
+my_dir/
+untitled_project/
+
+# Model weights
+*.h5
+*.keras
